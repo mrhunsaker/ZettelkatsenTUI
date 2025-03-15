@@ -1,0 +1,17 @@
+# Zettelkasten keyword mapping rules
+# Format: keyword: folder
+coding: katsen/coding
+ideas: katsen/ideas
+3dprint: katsen/3dprint
+instruction: katsen/instruction
+technology: katsen/technology
+techspecs: katsen/techspecs
+transcription: katsen/transcription
+technotes: katsen/technotes
+embosser: katsen/embosser
+screenreader: katsen/screenreader
+nvda: katsen/screenreader
+jaws: katsen/acreenreader
+braille: katsen/braille
+accessibility: katsen/accessibility
+graphics: katsen/graphics
