@@ -1,5 +1,5 @@
 # Zettelkasten keyword mapping rules
-# Format: keyword: folder
+# Format: keyword1: folder1
 coding: katsen/coding
 ideas: katsen/ideas
 3dprint: katsen/3dprint
